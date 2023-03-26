@@ -1,1 +1,1 @@
-My Street Map Project in Recat
+My Street Map Project with React and Leaflet.js
