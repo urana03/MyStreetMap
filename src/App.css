@@ -1,0 +1,25 @@
+.nav-map{
+    display: grid;
+    height: auto;
+    width:99vw;
+    grid-template-columns: 19% 81%;
+    border-bottom: 1px solid gray;
+}
+.nav{
+    grid-row-start: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding:20px;
+    border-right: 1px solid gray;
+}
+.mark{
+    background-color:cadetblue;
+    color: white;
+    font-size: 1.3rem;
+}
+.view{
+    background-color:chocolate;
+    color: white;
+    font-size: 1.3rem;
+}

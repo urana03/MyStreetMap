@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    width:99vw;
+    height: 10vh;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+.heading{
+    display: flex;
+    height: 90%;
+    width:25%;
+    align-items: center;
+    font-family: cursive,fantasy,Arial, Helvetica, sans-serif;
+    font-size:2rem ;
+    color:chocolate;
+    margin-left: 24px;
+    font-weight: 800;
+}
